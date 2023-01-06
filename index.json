@@ -819,21 +819,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/osd/InertiaFPV_OSD.txt",
-      "hash": "4e7feed613a0e49530f23b42242f6c86feb56b9c180989197f1d37927f6dd99a",
-      "title": "Inertia FPV - DJI",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "DJI"
-      ],
-      "author": "Inertia FPV (Anthony Goodwin)",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/osd/UAV_tech_Analog.txt",
       "hash": "b304bd4f3d0e6ab42840badced7e07847ca654c5fd048dba8c53b96128788763",
       "title": "UAV Tech - Analog",

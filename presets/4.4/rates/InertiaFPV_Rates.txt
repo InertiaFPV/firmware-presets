@@ -16,9 +16,9 @@
 #$ DESCRIPTION: Actual Rates:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: Roll: 170 , 480 , 0.25
-#$ DESCRIPTION: -----------
+#$ DESCRIPTION: 
 #$ DESCRIPTION: Pitch: 170 , 480 , 0.25
-#$ DESCRIPTION: -----------
+#$ DESCRIPTION: 
 #$ DESCRIPTION: Yaw: 170 , 350 , 0.25
 
 

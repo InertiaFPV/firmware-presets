@@ -16,8 +16,7 @@
 #$ DESCRIPTION: OSD Elements Include:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: Includes: Vbat, Amps, MaH drawn, etc...
-#$ DESCRIPTION: 
-#$ INCLUDE: presets/4.4/osd/defaults.txt
+#$ DESCRIPTION:
 
 
 

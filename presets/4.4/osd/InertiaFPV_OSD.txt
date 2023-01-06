@@ -15,7 +15,7 @@
 #$ DESCRIPTION: 
 #$ DESCRIPTION: OSD Elements Include:
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: Includes: Vbat, Amps, MaH drawn, etc...
+#$ DESCRIPTION: Includes: Timer, Throttle Poasition, RSSI dBm Value, Pilot Name, Craft Name, Link Quality, Disarm, Crosshairs, Battery avarage cell voltage
 #$ DESCRIPTION:
 
 

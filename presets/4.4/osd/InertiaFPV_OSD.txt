@@ -1,6 +1,7 @@
 #$ TITLE: Inertia FPV - DJI
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
 #$ KEYWORDS: DJI
 #$ AUTHOR: Inertia FPV (Anthony Goodwin)
 

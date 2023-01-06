@@ -3535,15 +3535,15 @@
     },
     {
       "fullPath": "presets/4.4/osd/InertiaFPV_OSD.txt",
-      "hash": "e1cc77132a3aa05e8418ced578116985691f763a30cc84a770f4544432c977aa",
-      "title": "Inertia FPV - DJI",
+      "hash": "2b08efc1fb824f1f095f17ac8b46749edb663b34b3f5bd5c6e502a56c0e703f4",
+      "title": "Inertia FPV OSD - DJI",
       "firmware_version": [
         "4.4"
       ],
       "category": "OSD",
       "status": "COMMUNITY",
       "keywords": [
-        "DJI"
+        "OSD"
       ],
       "author": "Inertia FPV (Anthony Goodwin)",
       "priority": 0
@@ -3630,6 +3630,21 @@
       "author": "Daniel Appel / Tehllama",
       "force_options_review": true,
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/rates/InertiaFPV_Rates.txt",
+      "hash": "cd5a875ef945ec26399174062082de8b548e82f63c06d43338b05f6f767c1578",
+      "title": "Inertia FPV Rates",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "RATES"
+      ],
+      "author": "Inertia FPV (Anthony Goodwin)",
+      "priority": 10000
     },
     {
       "fullPath": "presets/4.4/rc_link/reset_to_defaults.txt",

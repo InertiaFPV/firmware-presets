@@ -24,6 +24,31 @@
 set osd_displayport_device = MSP
 set vcd_video_system = HD
 
+#$ OPTION BEGIN (UNCHECKED): use displayport on uart 1
+    serial 0 131073 115200 57600 0 115200
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): use displayport on uart 2
+    serial 1 131073 115200 57600 0 115200
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): use displayport on uart 3
+    serial 2 131073 115200 57600 0 115200
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): use displayport on uart 4
+    serial 3 131073 115200 57600 0 115200
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): use displayport on uart 5
+    serial 4 131073 115200 57600 0 115200
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): use displayport on uart 6
+    serial 5 131073 115200 57600 0 115200
+#$ OPTION END
+
+
 set osd_units = METRIC
 set osd_warn_bitmask = 18301
 set osd_rssi_alarm = 20

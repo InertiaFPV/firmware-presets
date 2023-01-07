@@ -1,4 +1,4 @@
-#$ TITLE: Inertia FPV - DJI HD OSD
+#$ TITLE: Inertia FPV, HD OSD for WTFOS
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
@@ -11,7 +11,7 @@
 #$ DESCRIPTION: 
 #$ DESCRIPTION: Information:
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: DJI HD OSD setup. Sets up Inertia FPV OSD layout.
+#$ DESCRIPTION: DJI HD OSD setup for WTFOS. Sets up Inertia FPV HD OSD layout using WTFOS.
 #$ DESCRIPTION: 
 #$ DESCRIPTION: OSD Elements Include:
 #$ DESCRIPTION: -----------

@@ -24,27 +24,27 @@
 set osd_displayport_device = MSP
 set vcd_video_system = HD
 
-#$ OPTION BEGIN (UNCHECKED): use displayport on uart 1
+#$ OPTION BEGIN (UNCHECKED): Use VTX (MSP + Displayport) on Uart 1
     serial 0 131073 115200 57600 0 115200
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): use displayport on uart 2
+#$ OPTION BEGIN (UNCHECKED): Use VTX (MSP + Displayport) on Uart 2
     serial 1 131073 115200 57600 0 115200
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): use displayport on uart 3
+#$ OPTION BEGIN (UNCHECKED): Use VTX (MSP + Displayport) on Uart 3
     serial 2 131073 115200 57600 0 115200
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): use displayport on uart 4
+#$ OPTION BEGIN (UNCHECKED): Use VTX (MSP + Displayport) on Uart 4
     serial 3 131073 115200 57600 0 115200
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): use displayport on uart 5
+#$ OPTION BEGIN (UNCHECKED): Use VTX (MSP + Displayport) on Uart 5
     serial 4 131073 115200 57600 0 115200
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): use displayport on uart 6
+#$ OPTION BEGIN (UNCHECKED): Use VTX (MSP + Displayport) on Uart 6
     serial 5 131073 115200 57600 0 115200
 #$ OPTION END
 

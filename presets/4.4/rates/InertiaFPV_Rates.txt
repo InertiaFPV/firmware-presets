@@ -15,11 +15,11 @@
 #$ DESCRIPTION: 
 #$ DESCRIPTION: Actual Rates:
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: Roll: 100 , 480 , 0.25
+#$ DESCRIPTION: Roll: 10 , 480 , 0.25
 #$ DESCRIPTION: 
-#$ DESCRIPTION: Pitch: 100 , 480 , 0.25
+#$ DESCRIPTION: Pitch: 10 , 480 , 0.25
 #$ DESCRIPTION: 
-#$ DESCRIPTION: Yaw: 100 , 180 , 0.25
+#$ DESCRIPTION: Yaw: 10 , 280 , 0.25
 
 
 rateprofile 0
